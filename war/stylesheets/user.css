@@ -1,0 +1,53 @@
+/* User */
+div.user_panel {
+	border: solid 2px #AABBCC;
+}
+
+div.user_panel ul.sign li {
+	display: inline;
+}
+
+div.user_panel .picture {
+	text-align: center;
+}
+
+div.user_panel img {
+	border: solid 2px #DFD;
+}
+
+div.user_panel div.username {
+	text-align: center;
+	padding: 5px;
+}
+
+div.user_panel div.weather {
+	border: solid 2px #FBA;
+	font-size: 10pt;
+	padding: 5px 5px 5px 8px;
+}
+
+div.user_panel div.weather div.city{
+	margin-bottom: 5px;
+}
+
+div.user_panel div.weather div.condition{
+	float: left;
+	padding: 5px 10px 5px 0px;
+}
+
+.uploadpicture {
+	margin: auto;
+	width: 380px;
+}
+
+.uploadpicture div.header {
+	color: #639;
+	font-size: 20pt;
+	font-weight: bolder;
+	font-family: 微軟正黑體;
+}
+
+.uploadpicture div.required {
+	color: red;
+	display: inline;
+}

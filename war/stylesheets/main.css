@@ -1,0 +1,78 @@
+/* Main */
+div.main_panel {
+	border: solid 2px #FFDDBB;
+	width: 80%;
+	margin: auto;
+	padding: 2px 4px 4px 4px;
+}
+
+div.main_panel .search {
+	display: inline;
+}
+
+div.main_panel .search div{
+	background-color: #AEA;
+	display: inline;
+	padding-left: 3px;
+	padding-right: 3px;
+	margin-right: 5px;
+}
+
+div.main_panel .guestbook {
+	display: inline;
+	float: right;
+	width: auto;
+}
+
+div.main_panel .board_header {
+	background-color: #ACF;
+	padding: 5px;
+}
+
+div.main_panel .post_header {
+	background-color: #ACF;
+	margin-bottom: 2px;
+	padding: 5px;
+}
+
+div.main_panel .post_title {
+	background-color: #BDF;
+	margin-bottom: 2px;
+	padding: 5px;
+}
+
+div.main_panel .post_date {
+	background-color: #CEF;
+	margin-bottom: 2px;
+	padding: 5px;
+}
+
+div.main_panel .post_contents {
+	border: solid 1px #99F;
+	background-color: #EFF;
+	margin-bottom: 5px;
+	padding: 0px 5px 0px 5px;
+}
+
+div.main_panel .post_attachments {
+	border: solid 1px #9F9;
+	background-color: #EFF;
+	padding: 5px;
+}
+
+div.main_panel .guestbook_header {
+	background-color: #ACF;
+	margin-bottom: 2px;
+	padding: 5px;
+}
+
+div.main_panel div.row{
+	background-color: #EBE2FF;
+	margin: 8px 0px 0px 0px;
+	padding: 5px;
+}
+
+div.main_panel div.col{
+	display: inline;
+	padding: 5px;
+}
